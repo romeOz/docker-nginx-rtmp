@@ -163,4 +163,4 @@ ADD static /www/static
 EXPOSE 1935
 EXPOSE 80
 
-CMD nginx
+CMD ["nginx"]
